@@ -17,4 +17,6 @@ Additionally, you can create a parallel function that converts the given image (
 ## dependencies
 ```
 python: 3.10
+pillow==10.4.0
+numpy==2.0.0
 ```
